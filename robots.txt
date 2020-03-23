@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dahciengu.8px.design/sitemap.xml
